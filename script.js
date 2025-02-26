@@ -3,4 +3,4 @@ let inputName = document.getElementById("fname")
 
 inputName.addEventListener("keyup", function() {
 	inputName.value = inputName.value.toUpperCase()
-});
+})
